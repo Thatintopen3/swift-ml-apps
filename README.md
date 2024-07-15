@@ -1,1 +1,4 @@
 # Swift ML Apps\n\nThis repository focuses on developing machine learning applications for Apple platforms (iOS, macOS) using Swift. It includes examples and projects leveraging Core ML, Create ML, and other Swift-based frameworks for on-device AI capabilities.
+
+
+*Last updated: July 2024*
